@@ -1,3 +1,4 @@
+Practicing Git from the command line using Termux.
 ## Day 02 – Git & GitHub
 
 ### What I practiced

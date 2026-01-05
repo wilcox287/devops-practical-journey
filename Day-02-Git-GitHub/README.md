@@ -1,3 +1,4 @@
+Branch practice: added this line from day2-terminal-practice branch 
 Practicing Git from the command line using Termux.
 ## Day 02 – Git & GitHub
 
